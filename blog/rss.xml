@@ -14,7 +14,7 @@
             <guid>https://egonl.rotorflight.org/blog/2023/08/23/August Video</guid>
             <pubDate>Wed, 23 Aug 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Rotorflight 2]]></description>
-            <content:encoded><![CDATA[<p>Rotorflight 2</p><iframe width="560" height="315" src="https://www.youtube.com/embed/f632Q1YODBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe><iframe width="560" height="315" src="https://www.youtube.com/embed/DTk57JPrTeQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>]]></content:encoded>
+            <content:encoded><![CDATA[<p>Rotorflight 2</p><iframe width="560" height="315" src="https://www.youtube.com/embed/f632Q1YODBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen"></iframe><iframe width="560" height="315" src="https://www.youtube.com/embed/DTk57JPrTeQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen"></iframe>]]></content:encoded>
             <category>Rotorflight</category>
             <category>RF2</category>
             <category>Jonas Wackershauser</category>
