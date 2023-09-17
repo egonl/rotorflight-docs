@@ -10,10 +10,10 @@ const config = {
   tagline: 'Open-source Helicopter flight controller',
   favicon: 'img/rffavicon.ico',
 
-  url: 'https://github.com/', // Your website URL
+  url: 'https://egonl.rotorflight.org/', // Your website URL
   baseUrl: '/',
-  projectName: 'pkaig.github.io',
-  organizationName: 'pkaig',
+  projectName: 'rotorflight-docs',
+  organizationName: 'egonl',
   trailingSlash: false,
 
   onBrokenLinks: 'warn',
